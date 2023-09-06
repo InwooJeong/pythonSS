@@ -8,5 +8,3 @@ $ git config global user.name
 
 $ git remote add origin https://github.com/InwooJeong/pythonSS.git
 $ git pull origin master
-
-
